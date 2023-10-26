@@ -33,3 +33,7 @@ Step-3: Running application:
 
 ```bash
   > npm start
+```
+
+# Result
+![MarineGEO circle logo](/img/app_test.png)
