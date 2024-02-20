@@ -24,7 +24,7 @@ Windows:
 
 Step-1: Install dependencies:
 
-```cmd
+```bash
   > cd frontend
   > npm i
 ```
