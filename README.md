@@ -2,7 +2,7 @@
 
 Step-1: Creating & activating venv on Windows using Command Prompt:
 
-```bash
+```cmd
   > cd backend
   > py -3 -m venv .venv
   > .venv\Scripts\activate
